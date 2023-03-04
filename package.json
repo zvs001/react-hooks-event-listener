@@ -12,9 +12,11 @@
     "react",
     "react-hooks",
     "hooks",
-    "use-force-refresh",
-    "use-force-update",
-    "force-refresh"
+    "events",
+    "event-listener",
+    "event-emitter",
+    "use-event-listener",
+    "use-event-emitter"
   ],
   "license": "MIT",
   "repository": {
