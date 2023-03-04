@@ -1,5 +1,5 @@
 
-Tiny hook to support forceUpdate() behaviour.
+Hooks provides easy way to connect to event-listener within react component
 
 [![npm](https://img.shields.io/npm/v/react-hooks-event-listener)](https://www.npmjs.com/package/react-hooks-event-listener)
 
