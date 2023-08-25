@@ -54,7 +54,7 @@ function useEventListener(
         console.error('useEventListener():', "Couldn't find removeListener function. Try to set key manually.")
       }
     }
-  }, [])
+  }, [fn])
 }
 
 export default useEventListener
